@@ -1,0 +1,9 @@
+[
+    {
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "subreddit": "test",
+        "flair": null,
+        "title_template": "{title}",
+        "max_posts_per_run": 3
+    }
+]
