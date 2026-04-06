@@ -1,7 +1,42 @@
 [
     {
-        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "subreddit": "test",
+        "url": "https://www.spiegel.de/netzwelt/netzpolitik/index.rss",
+        "subreddit": "feed_automator_dev",
+        "flair": null,
+        "title_template": "{title}",
+        "max_posts_per_run": 3
+    },
+    {
+        "url": "https://digitalegesellschaft.de/feed/",
+        "subreddit": "feed_automator_dev",
+        "flair": null,
+        "title_template": "{title}",
+        "max_posts_per_run": 3
+    },
+    {
+        "url": "https://digitalcourage.de/rss.xml",
+        "subreddit": "feed_automator_dev",
+        "flair": null,
+        "title_template": "{title}",
+        "max_posts_per_run": 3
+    },
+    {
+        "url": "https://noyb.eu/de/rss",
+        "subreddit": "feed_automator_dev",
+        "flair": null,
+        "title_template": "{title}",
+        "max_posts_per_run": 3
+    },
+    {
+        "url": "https://www.ccc.de/de/rss/updates.xml",
+        "subreddit": "feed_automator_dev",
+        "flair": null,
+        "title_template": "{title}",
+        "max_posts_per_run": 3
+    },
+    {
+        "url": "https://netzpolitik.org/feed/",
+        "subreddit": "feed_automator_dev",
         "flair": null,
         "title_template": "{title}",
         "max_posts_per_run": 3
